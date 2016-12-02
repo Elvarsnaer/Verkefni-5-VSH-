@@ -1,0 +1,123 @@
+body {
+  background: linear-gradient(to right, #ccc, #444);
+  background-attachment: fixed;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  color: white;}
+
+  article {
+  border-radius: auto;
+  box-sizing: border-box;
+  width: 70%;
+  padding: 0px 20px;  
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 25px;  
+  height: auto;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  background: linear-gradient(to right, #1a1a1a, black);
+  border: 2px solid yellow;
+}
+
+  footer {
+    padding-top: 20px;
+    height: 50px;
+    background: linear-gradient(to right, #1a1a1a, black);
+    color: white;
+    border-top: 2px solid yellow;
+  }
+
+  .titill
+  {
+    font-size: 50px;
+    text-align: center;
+    color: white;    
+  }
+
+  .minnititill
+  {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
+
+  .myndadaemi
+  {
+    background-image: url("synphony_logud.jpg");
+    background-color: #cccccc;
+    width: 800px;
+    height: 441px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 34px;
+    border: 4px solid black;
+    display: block;
+  }
+
+  .myndadaemi-2
+  {
+    background-image: url("logo.jpg");    
+    background-color: #cccccc;    
+    width: 316px;
+    height: 164px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dalkur
+  {
+    width: 800px;
+    height: 40px;    
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background: linear-gradient(to right, #1a1a1a, black);
+  }
+
+    .dalkur-1
+  {
+    width: 400px;
+    height: 40px; 
+    text-align: center;  
+    color: white;
+    float: left;
+    border-right: 1px solid black;
+  }
+
+  .dalkur-2
+  {
+    width: 400px;
+    height: 40px; 
+    text-align: center;  
+    color: white;
+    float: left;
+  }
+
+  .minni-article
+  {
+  border-radius: auto;
+  box-sizing: border-box;
+  width: 96%;
+  padding: 0px 20px;
+  background: linear-gradient(to right, #1a1a1a, black);
+  font-family: 'Fjalla One', sans-serif;
+  border: 2px solid yellow;
+  height: 200px;
+  margin-top: 30px;
+  margin-left: 2%;
+  margin-right: 2%;
+  color: white;
+  }
+
+  .texti
+  {
+    font-size: 27px;
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+
